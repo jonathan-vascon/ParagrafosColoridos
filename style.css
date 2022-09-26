@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    margin-bottom: -10px;
+}
+h3 {
+    text-align: center;
+}
+
+.texto {  /* Sempre que der colocar as propriedades que ambos os paragrafos precisam em uma unica classe. */
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrao{
+    background-color: #cccc;
+}
+.paragrafo-destacado{
+    background-color: #f0cce2;
+    font-weight: bold;
+}

@@ -3,7 +3,7 @@
 ## Descrição do projeto
 
 ### 📍 Criar 2 parágrafos:
-
+- Exercício 3 HTML/CSS do curso DevQuest 2022 
 - Cor de fundo diferente em cada um:
     - Parágrafo de estilo padrão com fundo cinza claro (#f5f5f5).
     - Parágrafo de estilo destacado com fundo colorido (#f0cce2).

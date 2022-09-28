@@ -20,3 +20,7 @@
 ## Tecnologias utilizadas:
 - HTML
 - CSS
+
+## Data da última atualização
+
+- 27/09/2022
